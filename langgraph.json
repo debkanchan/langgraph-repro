@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "research": "./index.ts:graph"
+  },
+  "node_version": "20"
+}
